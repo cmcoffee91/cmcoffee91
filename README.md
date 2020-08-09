@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there 👋 , I'm Chris, a Full Stack Developer.
+
+### Connect with me:
+
+[<img align="left" alt="cmcoffee91 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="cmcoffee91 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="cmcoffee91 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+
+
+[medium]: https://medium.com/@cmcoffee91
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://www.instagram.com/cmcoffee91/
+[linkedin]: https://www.linkedin.com/in/christopher-coffee-08abb050/
 
 <!--
 **cmcoffee91/cmcoffee91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
